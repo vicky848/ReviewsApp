@@ -1,0 +1,30 @@
+/* Write your code here */
+.app-container {
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/reviews-bg.png');
+  height: 100vh;
+  padding-top: 120px;
+}
+.arrow {
+  height: 18px;
+  width: 18px;
+  color: #ffffff;
+}
+.button {
+  background: transparent;
+  border-width: 0px;
+}
+.heading {
+  font-size: 27px;
+  font-weight: 800;
+  font-family: 'Roboto';
+  color: #ffffff;
+}
+.username {
+  color: #171f46;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: 'Roboto';
+}
